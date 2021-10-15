@@ -366,7 +366,7 @@ button {
     border-top: 0px;
     border-left: 0px;
     border-right: 0px;
-    color: #000;!important;
+    color: #000;
     width: 95%;
     height: 30px;
     font-size: 20px;
@@ -700,7 +700,7 @@ input.email-bt::placeholder {
     left: 50px;
     top: 40%;
     background-color: #f8ca12;}
-}
+
 
 #main_slider .carousel-control-prev, #main_slider .carousel-control-next {
     width: 65px;
@@ -737,4 +737,3 @@ input.email-bt::placeholder {
     background: #f8ca12;
     color: #fff;
 }
-
