@@ -290,6 +290,10 @@ button {
     margin-top: 30px;
 }
 
+.overlay-content:hover{
+    background-color: #543acab5;
+}
+
 .toggle_menu {
     top: -3px;
     position: relative;
