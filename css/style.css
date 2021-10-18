@@ -676,6 +676,15 @@ input.email-bt::placeholder {
     border-radius: 5px;
 }
 
+.subscribr_bt {
+    color: rgb(0, 0, 0);
+}
+
+.subscribr_bt:hover{
+    color:rgb(0, 0, 0);
+    background: red;
+}
+
 .copyright_section{
     width: 100%;
     float: left;
