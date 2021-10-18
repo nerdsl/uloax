@@ -334,6 +334,7 @@ button {
 }
 
 .booking_text{
+     top: 2%;
      width: 100%;
      float: left;
      font-size: 26px;
