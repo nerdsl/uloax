@@ -290,6 +290,10 @@ button {
     margin-top: 30px;
 }
 
+.overlay-content:hover{
+    background-color: #543acab5;
+}
+
 .toggle_menu {
     top: -3px;
     position: relative;
@@ -334,6 +338,7 @@ button {
 }
 
 .booking_text{
+     top: 2%;
      width: 100%;
      float: left;
      font-size: 26px;
@@ -654,7 +659,7 @@ input.email-bt::placeholder {
      width: 100%;
      float: left;
     font-size: 12pt;
-    color: #eceaea;
+    color: #000;
     background-color: #ffffff;
     padding: 10px;
     border-radius: 5px;
@@ -673,6 +678,15 @@ input.email-bt::placeholder {
     margin-top: 20px;
     font-weight: 600;
     border-radius: 5px;
+}
+
+.subscribr_bt {
+    color: rgb(0, 0, 0);
+}
+
+.subscribr_bt:hover{
+    color:rgb(0, 0, 0);
+    background: red;
 }
 
 .copyright_section{
